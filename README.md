@@ -216,6 +216,5 @@ This list is not comprehensive, but might give you ideas on what you want to wor
 
 ## Acknowledgment
 
-Gratitude to all who helped me in my studies and inspired me to learn more.
-
+Gratitude to all who helped me in my studies and inspired me to learn more. You are welcome to suggest edits to the list of questions. 
 
